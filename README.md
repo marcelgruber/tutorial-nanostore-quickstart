@@ -1,6 +1,6 @@
-# Babbage React Starter
+# Tutorial: NanoStore Quickstart
 
-A starter Babbage app built with React
+This is the companion codebase for the [NanoStore Quickstart](https://projectbabbage.com/nanostore/quickstart).
 
 ## Getting Set Up
 
