@@ -36,4 +36,4 @@ If you run into any problems getting set up, you can try searching Google for th
 
 ## License
 
-The license for the code in this repository is te Open BSV License.
+The license for the code in this repository is the Open BSV License.
